@@ -1,0 +1,88 @@
+<!-- <div class="bestsellers" id="product6">
+                              <h2>Product 6</h2>
+                              <div class="productimgbox"><img id="product6image" src="images/prod1.webp" alt=""
+                                        srcset=""></div>
+                              <div class="productdetail">
+                                   <h3>₹ 499/-</h3>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <button class="checkout">Checkout</button>
+                              </div>
+                         </div>
+
+                         <div class="bestsellers" id="product7">
+                              <h2>Product 7</h2>
+                              <div class="productimgbox"><img id="product7image" src="images/prod1.webp" alt=""
+                                        srcset=""></div>
+                              <div class="productdetail">
+                                   <h3>₹ 499/-</h3>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <button class="checkout">Checkout</button>
+                              </div>
+                         </div>
+
+                         <div class="bestsellers" id="product8">
+                              <h2>Product 8</h2>
+                              <div class="productimgbox"><img id="product8image" src="images/prod1.webp" alt=""
+                                        srcset=""></div>
+                              <div class="productdetail">
+                                   <h3>₹ 499/-</h3>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <button class="checkout">Checkout</button>
+                              </div>
+                         </div>
+
+                         <div class="bestsellers" id="product9">
+                              <h2>Product 9</h2>
+                              <div class="productimgbox"><img id="product9image" src="images/prod1.webp" alt=""
+                                        srcset=""></div>
+                              <div class="productdetail">
+                                   <h3>₹ 499/-</h3>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <button class="checkout">Checkout</button>
+                              </div>
+                         </div>
+
+                         <div class="bestsellers" id="product10">
+                              <h2>Product 10</h2>
+                              <div class="productimgbox"><img id="product10image" src="images/prod1.webp" alt=""
+                                        srcset=""></div>
+                              <div class="productdetail">
+                                   <h3>₹ 499/-</h3>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <h5>Lorem ipsum dolor sit amet.</h5>
+                                   <button class="checkout">Checkout</button>
+                              </div>
+                         </div> -->
+
+
+
+
+
+
+
+
+
+                         <!-- <p>
+                         Street:  M-2, Part 1, Greater Kailash
+
+                         City:   Delhi
+
+                         State/province/area:    Delhi
+
+                         Phone number  
+
+                         Zip code  110048
+
+                         Country calling code  +91
+
+                         Country  India
+                    </p> -->
